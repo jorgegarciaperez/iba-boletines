@@ -1,0 +1,1 @@
+start /min jre\bin\java -Xmx512m -splash:boletin.gif -jar boletines.jar &
