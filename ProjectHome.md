@@ -1,0 +1,1 @@
+Genera boletines a partir de un archivo xls usando BIRT
